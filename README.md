@@ -1,0 +1,1 @@
+This repo contains a basic quantum classification model that achieved 78% accuracy. It utilized a popular quantum library pennylane in order to simulate how quantum computers work without requiring the actual need for qubits. This serves as a proof of concept and is not meant to be a state-of-the-art solution.
